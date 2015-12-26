@@ -1,788 +1,144 @@
-12:30:27,423  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-12:30:28,439  INFO Workflow:58 - Workflow ended, took 0.173 seconds, total processing time took 0.587
-12:30:28,440  INFO Workflow:61 - Total processing time for each worker:
-12:30:28,441  INFO Workflow:66 - 	: 0.113, 65%
-12:30:28,442  INFO Workflow:66 - 	: 0.103, 59%
-12:30:28,442  INFO Workflow:66 - 	: 0.093, 53%
-12:30:28,450  INFO Workflow:66 - 	: 0.09, 52%
-12:30:28,450  INFO Workflow:66 - 	: 0.162, 93%
-12:30:28,450  INFO Workflow:66 - 	: 0.001, 0%
-18:19:36,115  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-18:19:36,139  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-18:19:36,164  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-18:19:37,122  INFO Workflow:58 - Workflow ended, took 0.135 seconds, total processing time took 0.422
-18:19:37,122  INFO Workflow:61 - Total processing time for each worker:
-18:19:37,123  INFO Workflow:66 - 	: 0.053, 39%
-18:19:37,123  INFO Workflow:66 - 	: 0.059, 43%
-18:19:37,123  INFO Workflow:66 - 	: 0.049, 36%
-18:19:37,130  INFO Workflow:66 - 	: 0.04, 29%
-18:19:37,130  INFO Workflow:66 - 	: 0.131, 97%
-18:19:37,131  INFO Workflow:66 - 	: 0.001, 0%
-18:19:37,146  INFO Workflow:58 - Workflow ended, took 0.177 seconds, total processing time took 0.587
-18:19:37,147  INFO Workflow:61 - Total processing time for each worker:
-18:19:37,148  INFO Workflow:66 - 	: 0.105, 59%
-18:19:37,149  INFO Workflow:66 - 	: 0.08, 45%
-18:19:37,149  INFO Workflow:66 - 	: 0.116, 65%
-18:19:37,153  INFO Workflow:66 - 	: 0.058, 32%
-18:19:37,153  INFO Workflow:66 - 	: 0.169, 95%
-18:19:37,153  INFO Workflow:66 - 	: 0.0, 0%
-18:19:37,168  INFO Workflow:58 - Workflow ended, took 0.382 seconds, total processing time took 1.356
-18:19:37,170  INFO Workflow:61 - Total processing time for each worker:
-18:19:37,170  INFO Workflow:66 - 	: 0.246, 64%
-18:19:37,170  INFO Workflow:66 - 	: 0.246, 64%
-18:19:37,171  INFO Workflow:66 - 	: 0.23, 60%
-18:19:37,178  INFO Workflow:66 - 	: 0.206, 53%
-18:19:37,178  INFO Workflow:66 - 	: 0.375, 98%
-18:19:37,187  INFO Workflow:66 - 	: 0.001, 0%
-19:12:08,297  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:09,324  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:10,325  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:11,327  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:12,329  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:13,330  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:14,337  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:15,338  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:16,339  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:17,340  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:18,342  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:19,344  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:20,345  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:21,347  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:22,349  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:23,352  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:24,364  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:25,365  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:26,366  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:27,368  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:28,369  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:29,373  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:30,374  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:31,376  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:32,377  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:33,379  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:34,381  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:35,386  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:36,388  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:37,389  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:38,390  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:39,390  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:40,396  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:41,401  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:42,407  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:43,413  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:44,415  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:45,416  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:46,422  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:47,427  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:48,429  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:49,433  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:50,439  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:51,440  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:52,444  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:53,446  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:54,448  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:55,451  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:56,453  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:57,454  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:58,456  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:12:59,457  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:00,459  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:01,460  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:02,462  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:03,464  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:04,465  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:05,466  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:06,467  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:07,469  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:08,471  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:09,472  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:10,473  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:11,475  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:12,475  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:13,476  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:14,478  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:15,479  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:16,480  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:17,481  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:18,482  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:19,483  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:20,484  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:21,485  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:22,486  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:23,488  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:24,489  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:25,493  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:26,494  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:27,495  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:28,496  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:29,496  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:30,497  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:31,499  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:32,500  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:33,501  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:34,502  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:35,511  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:36,515  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:37,515  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:38,516  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:39,518  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:40,519  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:41,520  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:42,520  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:43,521  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:44,522  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:45,526  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:46,527  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:47,529  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:48,531  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:49,533  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:50,535  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:51,541  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:52,543  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:53,544  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:54,545  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:55,546  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:56,549  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:57,549  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:58,551  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:13:59,554  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:00,556  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:01,557  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:02,558  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:03,558  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:04,559  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:05,560  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:06,564  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:07,565  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:08,570  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:09,571  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:10,572  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:11,574  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:12,576  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:13,577  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:14,578  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:15,579  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:16,579  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:17,581  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:18,581  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:19,582  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:20,583  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:21,583  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:22,584  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:23,586  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:24,587  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:25,588  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:26,589  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:27,591  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:28,592  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:29,593  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:30,594  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:31,595  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:32,597  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:33,598  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:34,600  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:35,602  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:36,604  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:37,605  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:38,608  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:39,609  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:40,612  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:41,615  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:42,617  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:43,618  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:44,620  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:45,622  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:46,623  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:47,623  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:48,624  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:49,625  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:50,626  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:51,628  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:52,630  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:53,632  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:54,634  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:55,636  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:56,636  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:57,642  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:58,645  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:14:59,646  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:15:00,648  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:15:01,650  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:15:02,655  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:03,657  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:04,659  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:05,660  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:06,661  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:07,662  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:08,665  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:09,670  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:10,672  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:11,672  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:12,673  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:13,674  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:14,679  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:15,680  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:16,684  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:17,685  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:18,686  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:19,688  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:20,690  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:21,691  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:22,692  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:23,694  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:24,696  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:25,697  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:26,698  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:27,699  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:28,704  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:29,706  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:30,708  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:31,709  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:32,711  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:33,713  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:34,716  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:35,717  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:36,719  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:37,719  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:38,720  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:39,725  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:40,726  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:41,729  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:42,731  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:43,732  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:44,733  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:45,734  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:46,734  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:47,736  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:48,738  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:49,740  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:50,745  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:51,746  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:52,747  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:53,748  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:54,749  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:55,750  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:56,752  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-19:15:57,753  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:15:58,754  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:15:59,759  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:00,760  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:01,762  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:02,762  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:03,764  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:04,765  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:05,766  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:06,769  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:07,774  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:08,776  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:09,777  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:10,779  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:11,782  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:12,783  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:13,785  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:14,791  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:15,792  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:16,795  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:17,797  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:18,801  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:19,802  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:20,802  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:21,805  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:22,807  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:23,812  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:24,814  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:25,815  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:26,816  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:27,817  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:28,818  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:29,819  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:30,821  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:31,825  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:32,827  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:33,828  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:34,829  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:35,830  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:36,834  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:37,835  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:38,836  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:39,841  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:40,842  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:41,847  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:42,848  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:43,849  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:44,855  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:45,856  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:46,858  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:47,859  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:48,865  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:49,865  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:50,866  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:51,867  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:52,869  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:53,874  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-19:16:54,874  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
-19:16:55,875  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
-19:16:56,876  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
-19:16:57,879  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:16:58,880  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:16:59,880  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:00,881  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:01,889  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:02,890  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:03,891  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:04,891  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:05,894  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:06,896  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:07,897  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:08,901  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:09,902  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:10,903  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:11,904  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:12,905  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:13,907  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:14,909  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:15,910  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:16,911  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:17,912  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:18,912  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:19,914  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:20,915  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:21,916  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:22,918  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:23,919  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:24,920  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:25,921  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:26,924  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:27,925  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:28,928  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:29,930  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:30,931  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:31,931  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:32,933  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:33,933  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:34,936  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:17:35,938  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:17:36,942  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:17:37,945  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:17:38,946  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:17:39,948  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:17:40,950  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:17:41,951  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:11,544  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:18:12,551  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:18:13,552  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-19:18:14,553  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:18:15,554  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:18:16,556  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:18:17,562  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:18:18,563  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:18:19,564  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:20,566  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:21,567  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:22,569  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:23,569  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:24,570  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:25,571  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:26,571  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:27,582  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:28,583  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:18:29,585  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:30,587  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:31,589  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:32,595  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:33,595  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:34,596  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:35,598  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:36,606  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:37,608  INFO Workflow:48 - waiting to finish jobs, #active jobs: 5
-19:18:38,608  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:39,609  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:40,613  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:41,615  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:42,618  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:43,619  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:44,620  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:45,621  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:46,623  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:47,625  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:48,625  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:49,626  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:50,627  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:51,629  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:52,630  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:53,632  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:54,632  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-19:18:55,633  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
-20:53:04,221  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-20:53:05,225  INFO Workflow:58 - Workflow ended, took 0.169 seconds, total processing time took 1.648
-20:53:05,226  INFO Workflow:61 - Total processing time for each worker:
-20:53:05,226  INFO Workflow:66 - 	: 0.136, 80%
-20:53:05,227  INFO Workflow:66 - 	: 0.152, 89%
-20:53:05,227  INFO Workflow:66 - 	: 0.155, 91%
-20:53:05,232  INFO Workflow:66 - 	: 0.154, 91%
-20:53:05,232  INFO Workflow:66 - 	: 0.148, 87%
-20:53:05,232  INFO Workflow:66 - 	: 0.151, 89%
-20:53:05,232  INFO Workflow:66 - 	: 0.15, 88%
-20:53:05,232  INFO Workflow:66 - 	: 0.137, 81%
-20:53:05,232  INFO Workflow:66 - 	: 0.143, 84%
-20:53:05,232  INFO Workflow:66 - 	: 0.119, 70%
-20:53:05,233  INFO Workflow:66 - 	: 0.162, 95%
-20:53:05,233  INFO Workflow:66 - 	: 0.0, 0%
-20:54:07,151  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-20:54:08,165  INFO Workflow:58 - Workflow ended, took 0.095 seconds, total processing time took 0.307
-20:54:08,165  INFO Workflow:61 - Total processing time for each worker:
-20:54:08,166  INFO Workflow:66 - 	: 0.062, 65%
-20:54:08,167  INFO Workflow:66 - 	: 0.06, 63%
-20:54:08,167  INFO Workflow:66 - 	: 0.092, 96%
-20:54:08,174  INFO Workflow:66 - 	: 0.001, 1%
-20:59:07,272  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-20:59:08,280  INFO Workflow:58 - Workflow ended, took 0.074 seconds, total processing time took 0.134
-20:59:08,281  INFO Workflow:61 - Total processing time for each worker:
-20:59:08,281  INFO Workflow:66 - 	: 0.025, 33%
-20:59:08,282  INFO Workflow:66 - 	: 0.025, 33%
-20:59:08,282  INFO Workflow:66 - 	: 0.071, 95%
-20:59:08,287  INFO Workflow:66 - 	: 0.0, 0%
-20:59:22,515  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-20:59:23,525  INFO Workflow:58 - Workflow ended, took 0.064 seconds, total processing time took 0.123
-20:59:23,526  INFO Workflow:61 - Total processing time for each worker:
-20:59:23,527  INFO Workflow:66 - 	: 0.018, 28%
-20:59:23,527  INFO Workflow:66 - 	: 0.002, 3%
-20:59:23,527  INFO Workflow:66 - 	: 0.04, 62%
-20:59:23,534  INFO Workflow:66 - 	: 0.0, 0%
-20:59:34,487  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-20:59:35,505  INFO Workflow:58 - Workflow ended, took 0.124 seconds, total processing time took 0.377
-20:59:35,507  INFO Workflow:61 - Total processing time for each worker:
-20:59:35,508  INFO Workflow:66 - 	: 0.073, 58%
-20:59:35,508  INFO Workflow:66 - 	: 0.068, 54%
-20:59:35,509  INFO Workflow:66 - 	: 0.121, 97%
-20:59:35,516  INFO Workflow:66 - 	: 0.001, 0%
-20:59:42,388  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-20:59:43,398  INFO Workflow:58 - Workflow ended, took 0.078 seconds, total processing time took 0.12
-20:59:43,398  INFO Workflow:61 - Total processing time for each worker:
-20:59:43,398  INFO Workflow:66 - 	: 0.008, 10%
-20:59:43,399  INFO Workflow:66 - 	: 0.005, 6%
-20:59:43,399  INFO Workflow:66 - 	: 0.049, 62%
-20:59:43,402  INFO Workflow:66 - 	: 0.0, 0%
-21:00:06,285  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:00:07,299  INFO Workflow:58 - Workflow ended, took 0.058 seconds, total processing time took 0.076
-21:00:07,300  INFO Workflow:61 - Total processing time for each worker:
-21:00:07,303  INFO Workflow:66 - 	: 0.009, 15%
-21:00:07,304  INFO Workflow:66 - 	: 0.003, 5%
-21:00:07,305  INFO Workflow:66 - 	: 0.004, 6%
-21:00:07,314  INFO Workflow:66 - 	: 0.0, 0%
-21:01:35,132  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:01:36,149  INFO Workflow:58 - Workflow ended, took 0.064 seconds, total processing time took 0.073
-21:01:36,150  INFO Workflow:61 - Total processing time for each worker:
-21:01:36,152  INFO Workflow:66 - 	: 0.015, 23%
-21:01:36,153  INFO Workflow:66 - 	: 0.01, 15%
-21:01:36,154  INFO Workflow:66 - 	: 0.006, 9%
-21:01:36,158  INFO Workflow:66 - 	: 0.002, 3%
-21:01:43,179  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:01:44,192  INFO Workflow:58 - Workflow ended, took 0.077 seconds, total processing time took 0.214
-21:01:44,194  INFO Workflow:61 - Total processing time for each worker:
-21:01:44,195  INFO Workflow:66 - 	: 0.028, 36%
-21:01:44,196  INFO Workflow:66 - 	: 0.04, 51%
-21:01:44,196  INFO Workflow:66 - 	: 0.068, 88%
-21:01:44,204  INFO Workflow:66 - 	: 0.0, 0%
-21:08:03,699  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:08:04,705  INFO Workflow:58 - Workflow ended, took 0.066 seconds, total processing time took 0.059
-21:08:04,705  INFO Workflow:61 - Total processing time for each worker:
-21:08:04,705  INFO Workflow:66 - 	: 0.008, 12%
-21:08:04,705  INFO Workflow:66 - 	: 0.008, 12%
-21:08:04,706  INFO Workflow:66 - 	: 0.005, 7%
-21:08:04,710  INFO Workflow:66 - 	: 0.0, 0%
-21:08:12,155  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:08:13,166  INFO Workflow:58 - Workflow ended, took 0.11 seconds, total processing time took 0.236
-21:08:13,166  INFO Workflow:61 - Total processing time for each worker:
-21:08:13,167  INFO Workflow:66 - 	: 0.057, 51%
-21:08:13,167  INFO Workflow:66 - 	: 0.059, 53%
-21:08:13,167  INFO Workflow:66 - 	: 0.1, 90%
-21:08:13,175  INFO Workflow:66 - 	: 0.003, 2%
-21:08:21,121  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:08:22,130  INFO Workflow:58 - Workflow ended, took 0.045 seconds, total processing time took 0.042
-21:08:22,131  INFO Workflow:61 - Total processing time for each worker:
-21:08:22,132  INFO Workflow:66 - 	: 0.005, 11%
-21:08:22,132  INFO Workflow:66 - 	: 0.014, 31%
-21:08:22,135  INFO Workflow:66 - 	: 0.006, 13%
-21:08:22,143  INFO Workflow:66 - 	: 0.001, 2%
-21:08:34,926  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:08:35,948  INFO Workflow:58 - Workflow ended, took 0.073 seconds, total processing time took 0.09
-21:08:35,949  INFO Workflow:61 - Total processing time for each worker:
-21:08:35,949  INFO Workflow:66 - 	: 0.013, 17%
-21:08:35,949  INFO Workflow:66 - 	: 0.001, 1%
-21:08:35,950  INFO Workflow:66 - 	: 0.007, 9%
-21:08:35,955  INFO Workflow:66 - 	: 0.005, 6%
-21:08:46,012  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:08:47,027  INFO Workflow:58 - Workflow ended, took 0.108 seconds, total processing time took 0.252
-21:08:47,028  INFO Workflow:61 - Total processing time for each worker:
-21:08:47,030  INFO Workflow:66 - 	: 0.054, 50%
-21:08:47,031  INFO Workflow:66 - 	: 0.049, 45%
-21:08:47,031  INFO Workflow:66 - 	: 0.102, 94%
-21:08:47,040  INFO Workflow:66 - 	: 0.001, 0%
-21:36:07,261  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:36:08,264  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:36:09,265  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-21:36:10,272  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-21:36:11,275  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-21:36:12,277  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-21:36:13,280  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
-21:36:14,280  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
-21:36:15,282  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:36:16,285  INFO Workflow:58 - Workflow ended, took 8.438 seconds, total processing time took 19.946
-21:36:16,285  INFO Workflow:61 - Total processing time for each worker:
-21:36:16,286  INFO Workflow:66 - 	: 5.776, 68%
-21:36:16,286  INFO Workflow:66 - 	: 6.22, 73%
-21:36:16,287  INFO Workflow:66 - 	: 7.886, 93%
-21:36:16,287  INFO Workflow:66 - 	: 0.0, 0%
-21:36:26,725  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:36:27,736  INFO Workflow:58 - Workflow ended, took 0.154 seconds, total processing time took 0.427
-21:36:27,737  INFO Workflow:61 - Total processing time for each worker:
-21:36:27,746  INFO Workflow:66 - 	: 0.1, 64%
-21:36:27,747  INFO Workflow:66 - 	: 0.076, 49%
-21:36:27,750  INFO Workflow:66 - 	: 0.141, 91%
-21:36:27,758  INFO Workflow:66 - 	: 0.002, 1%
-21:41:13,513  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:41:14,519  INFO Workflow:58 - Workflow ended, took 0.241 seconds, total processing time took 0.526
-21:41:14,519  INFO Workflow:61 - Total processing time for each worker:
-21:41:23,772  INFO Workflow:66 - 	: 0.085, 35%
-21:41:23,772  INFO Workflow:66 - 	: 0.16, 66%
-21:41:23,772  INFO Workflow:66 - 	: 0.23, 95%
-21:41:23,779  INFO Workflow:66 - 	: 0.005, 2%
-21:51:18,139  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:51:19,153  INFO Workflow:58 - Workflow ended, took 0.098 seconds, total processing time took 0.196
-21:51:19,155  INFO Workflow:61 - Total processing time for each worker:
-21:51:19,156  INFO Workflow:66 - 	: 0.024, 24%
-21:51:19,157  INFO Workflow:66 - 	: 0.026, 26%
-21:51:19,157  INFO Workflow:66 - 	: 0.093, 94%
-21:51:19,166  INFO Workflow:66 - 	: 0.001, 1%
-21:51:19,166  INFO Workflow:66 - 	: 0.0, 0%
-21:51:57,863  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:51:58,887  INFO Workflow:58 - Workflow ended, took 0.113 seconds, total processing time took 0.15
-21:51:58,888  INFO Workflow:61 - Total processing time for each worker:
-21:51:58,891  INFO Workflow:66 - 	: 0.03, 26%
-21:51:58,892  INFO Workflow:66 - 	: 0.019, 16%
-21:51:58,892  INFO Workflow:66 - 	: 0.093, 82%
-21:51:58,897  INFO Workflow:66 - 	: 0.0, 0%
-21:51:58,897  INFO Workflow:66 - 	: 0.0, 0%
-21:52:12,433  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:52:13,442  INFO Workflow:58 - Workflow ended, took 0.072 seconds, total processing time took 0.132
-21:52:13,443  INFO Workflow:61 - Total processing time for each worker:
-21:52:13,446  INFO Workflow:66 - 	: 0.03, 41%
-21:52:13,446  INFO Workflow:66 - 	: 0.024, 33%
-21:52:13,448  INFO Workflow:66 - 	: 0.067, 93%
-21:52:13,453  INFO Workflow:66 - 	: 0.0, 0%
-21:52:13,455  INFO Workflow:66 - 	: 0.0, 0%
-21:52:13,455  INFO Workflow:66 - 	: 0.0, 0%
-21:52:13,455  INFO Workflow:66 - 	: 0.0, 0%
-21:53:17,184  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
-21:53:18,197  INFO Workflow:58 - Workflow ended, took 0.258 seconds, total processing time took 0.854
-21:53:18,198  INFO Workflow:61 - Total processing time for each worker:
-21:53:18,198  INFO Workflow:66 - 	: 0.041, 15%
-21:53:18,199  INFO Workflow:66 - 	: 0.035, 13%
-21:53:18,199  INFO Workflow:66 - 	: 0.257, 99%
-21:53:18,206  INFO Workflow:66 - 	: 0.25, 96%
-21:53:18,206  INFO Workflow:66 - 	: 0.243, 94%
-21:53:18,207  INFO Workflow:66 - 	: 0.0, 0%
-21:53:18,207  INFO Workflow:66 - 	: 0.0, 0%
-21:53:18,207  INFO Workflow:66 - 	: 0.0, 0%
-21:53:18,208  INFO Workflow:66 - 	: 0.0, 0%
-21:54:18,917  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
-21:54:19,927  INFO Workflow:58 - Workflow ended, took 0.186 seconds, total processing time took 0.667
-21:54:19,928  INFO Workflow:61 - Total processing time for each worker:
-21:54:19,928  INFO Workflow:66 - 	: 0.034, 18%
-21:54:19,929  INFO Workflow:66 - 	: 0.072, 38%
-21:54:19,931  INFO Workflow:66 - 	: 0.161, 86%
-21:54:19,941  INFO Workflow:66 - 	: 0.154, 82%
-21:54:19,941  INFO Workflow:66 - 	: 0.153, 82%
-21:54:19,941  INFO Workflow:66 - 	: 0.0, 0%
-21:54:19,942  INFO Workflow:66 - 	: 0.0, 0%
-21:54:19,942  INFO Workflow:66 - 	: 0.0, 0%
-21:54:19,942  INFO Workflow:66 - 	: 0.0, 0%
-21:58:18,654  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
-21:58:19,659  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:20,659  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:21,661  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:22,662  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:23,665  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:24,676  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:25,676  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:26,678  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:27,680  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:28,681  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:29,688  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:30,690  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:31,691  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:32,692  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:33,693  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:34,699  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:35,702  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:36,707  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:37,709  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:58:38,712  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:00,480  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
-21:59:01,493  INFO Workflow:58 - Workflow ended, took 0.111 seconds, total processing time took 0.269
-21:59:01,494  INFO Workflow:61 - Total processing time for each worker:
-21:59:01,495  INFO Workflow:66 - 	: 0.033, 29%
-21:59:01,495  INFO Workflow:66 - 	: 0.009, 8%
-21:59:01,495  INFO Workflow:66 - 	: 0.01, 9%
-21:59:01,502  INFO Workflow:66 - 	: 0.014, 12%
-21:59:01,502  INFO Workflow:66 - 	: 0.009, 8%
-21:59:01,503  INFO Workflow:66 - 	: 0.0, 0%
-21:59:01,504  INFO Workflow:66 - 	: 0.002, 1%
-21:59:01,504  INFO Workflow:66 - 	: 0.0, 0%
-21:59:01,505  INFO Workflow:66 - 	: 0.0, 0%
-21:59:21,911  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
-21:59:22,916  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:23,917  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:24,918  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:25,920  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:26,921  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:27,930  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:28,931  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:29,932  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:30,933  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:31,934  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:32,936  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:33,940  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:34,940  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:35,942  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:36,943  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:37,946  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:38,948  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:39,949  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-21:59:54,680  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
-21:59:55,696  INFO Workflow:58 - Workflow ended, took 0.15 seconds, total processing time took 0.427
-21:59:55,696  INFO Workflow:61 - Total processing time for each worker:
-21:59:55,697  INFO Workflow:66 - 	: 0.025, 16%
-21:59:55,697  INFO Workflow:66 - 	: 0.026, 17%
-21:59:55,697  INFO Workflow:66 - 	: 0.02, 13%
-21:59:55,708  INFO Workflow:66 - 	: 0.058, 38%
-21:59:55,708  INFO Workflow:66 - 	: 0.125, 83%
-21:59:55,708  INFO Workflow:66 - 	: 0.0, 0%
-21:59:55,708  INFO Workflow:66 - 	: 0.008, 5%
-21:59:55,709  INFO Workflow:66 - 	: 0.0, 0%
-21:59:55,709  INFO Workflow:66 - 	: 0.011, 7%
-22:00:34,359  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
-22:00:35,362  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:36,362  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:37,363  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:38,364  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:39,366  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:40,374  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:41,376  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:42,383  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:43,385  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:44,386  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:45,387  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:46,388  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:47,390  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:48,391  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:49,393  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:50,403  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:51,406  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:52,410  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:53,413  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:54,414  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:55,416  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:56,418  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:57,419  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:58,423  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:00:59,426  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:00,428  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:01,431  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:02,433  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:03,437  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:04,442  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:05,445  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:06,446  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:07,447  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:08,448  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:09,449  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:10,454  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:11,457  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:12,458  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:13,459  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:14,461  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:15,462  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:16,463  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:17,463  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:18,464  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:19,466  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:20,467  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:21,468  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:22,470  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:23,470  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:24,471  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:25,472  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:26,473  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:27,474  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:28,476  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:29,477  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:30,479  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:31,479  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:32,480  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:33,480  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:34,485  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:35,487  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:36,488  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:37,489  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:38,491  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:39,492  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:40,501  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:41,502  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:42,503  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:43,504  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:44,506  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:45,506  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:46,507  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:47,512  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:48,514  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:49,515  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:50,516  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:51,522  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:52,524  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:53,526  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:54,528  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:55,531  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:56,536  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:57,537  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:58,538  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:01:59,543  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:00,548  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:01,553  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:02,554  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:03,555  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:04,560  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:05,561  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:06,564  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:07,565  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:08,566  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:09,568  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:10,570  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:11,572  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:12,573  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:13,574  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:14,577  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:15,580  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:16,584  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:17,590  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:18,591  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:19,592  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
-22:02:37,363  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
-22:02:38,380  INFO Workflow:58 - Workflow ended, took 0.114 seconds, total processing time took 0.877
-22:02:38,381  INFO Workflow:61 - Total processing time for each worker:
-22:02:38,384  INFO Workflow:66 - 	: 0.043, 37%
-22:02:38,384  INFO Workflow:66 - 	: 0.062, 54%
-22:02:38,385  INFO Workflow:66 - 	: 0.038, 33%
-22:02:38,392  INFO Workflow:66 - 	: 0.085, 74%
-22:02:38,392  INFO Workflow:66 - 	: 0.023, 20%
-22:02:38,393  INFO Workflow:66 - 	: 0.029, 25%
-22:02:38,393  INFO Workflow:66 - 	: 0.028, 24%
-22:02:38,393  INFO Workflow:66 - 	: 0.034, 29%
-22:02:38,393  INFO Workflow:66 - 	: 0.102, 89%
-22:02:38,394  INFO Workflow:66 - 	: 0.016, 14%
-22:02:38,394  INFO Workflow:66 - 	: 0.011, 9%
-22:02:38,394  INFO Workflow:66 - 	: 0.0, 0%
-22:02:38,395  INFO Workflow:66 - 	: 0.001, 0%
-22:02:38,402  INFO Workflow:66 - 	: 0.001, 0%
-22:02:38,403  INFO Workflow:66 - 	: 0.0, 0%
+17:40:13,466  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
+17:40:14,470  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:15,472  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:16,473  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:17,474  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:18,474  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:19,477  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:20,478  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:21,479  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:22,480  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:23,481  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:24,483  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:25,486  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:26,488  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:27,489  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:28,490  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:29,492  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:30,493  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:47,384  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
+17:40:48,393  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:40:49,395  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:41:00,414  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
+17:41:01,430  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
+17:41:02,431  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
+17:41:03,432  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
+17:41:04,433  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
+17:41:05,434  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
+17:41:06,448  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
+17:41:07,450  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
+17:41:08,451  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
+17:41:09,452  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
+17:41:10,454  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
+17:41:11,456  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
+17:41:12,457  INFO Workflow:48 - waiting to finish jobs, #active jobs: 3
+17:41:23,363  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
+17:41:24,367  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:25,368  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:26,371  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:27,372  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:28,372  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:29,388  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:30,389  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:31,390  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:32,392  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:33,393  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:34,394  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:35,397  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:36,398  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:37,400  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:38,400  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:39,408  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:41:47,978  INFO Workflow:48 - waiting to finish jobs, #active jobs: 4
+17:41:48,988  INFO Workflow:58 - Workflow ended, took 0.131 seconds, total processing time took 0.392
+17:41:48,988  INFO Workflow:61 - Total processing time for each worker:
+17:41:48,990  INFO Workflow:66 - 	: 0.027, 20%
+17:41:48,990  INFO Workflow:66 - 	: 0.018, 13%
+17:41:48,993  INFO Workflow:66 - 	: 0.013, 9%
+17:41:49,001  INFO Workflow:66 - 	: 0.02, 15%
+17:41:49,001  INFO Workflow:66 - 	: 0.012, 9%
+17:41:49,003  INFO Workflow:66 - 	: 0.0, 0%
+17:41:49,014  INFO Workflow:66 - 	: 0.0, 0%
+17:41:49,014  INFO Workflow:66 - 	: 0.0, 0%
+17:41:49,015  INFO Workflow:66 - 	: 0.018, 13%
+17:41:49,015  INFO Workflow:66 - 	: 0.018, 13%
+17:41:49,015  INFO Workflow:66 - 	: 0.062, 47%
+17:41:49,016  INFO Workflow:66 - 	: 0.005, 3%
+17:41:49,016  INFO Workflow:66 - 	: 0.0, 0%
+17:41:49,023  INFO Workflow:66 - 	: 0.0, 0%
+17:41:49,023  INFO Workflow:66 - 	: 0.0, 0%
+17:42:07,388  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:42:08,392  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:09,394  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:10,395  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:11,397  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:12,398  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:13,407  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:14,408  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:15,409  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:16,410  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:17,414  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:18,414  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:19,416  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:20,418  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:21,419  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:22,420  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:23,423  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:24,425  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:25,426  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:26,428  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:27,434  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:28,435  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:29,438  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:30,439  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:31,441  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:32,442  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:33,445  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:34,447  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:35,448  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:36,450  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:37,453  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:38,455  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:39,455  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:40,456  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:41,457  INFO Workflow:48 - waiting to finish jobs, #active jobs: 2
+17:42:53,476  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:42:54,487  INFO Workflow:58 - Workflow ended, took 0.289 seconds, total processing time took 0.611
+17:42:54,489  INFO Workflow:61 - Total processing time for each worker:
+17:42:54,490  INFO Workflow:66 - 	: 0.008, 2%
+17:42:54,491  INFO Workflow:66 - 	: 0.005, 1%
+17:42:54,499  INFO Workflow:66 - 	: 0.004, 1%
+17:42:54,510  INFO Workflow:66 - 	: 0.005, 1%
+17:42:54,511  INFO Workflow:66 - 	: 0.016, 5%
+17:42:54,511  INFO Workflow:66 - 	: 0.007, 2%
+17:42:54,512  INFO Workflow:66 - 	: 0.003, 1%
+17:42:54,512  INFO Workflow:66 - 	: 0.003, 1%
+17:42:54,513  INFO Workflow:66 - 	: 0.052, 17%
+17:42:54,513  INFO Workflow:66 - 	: 0.052, 17%
+17:42:54,515  INFO Workflow:66 - 	: 0.045, 15%
+17:42:54,520  INFO Workflow:66 - 	: 0.025, 8%
+17:42:54,520  INFO Workflow:66 - 	: 0.014, 4%
+17:42:54,527  INFO Workflow:66 - 	: 0.022, 7%
+17:42:54,527  INFO Workflow:66 - 	: 0.0, 0%
+17:42:54,527  INFO Workflow:66 - 	: 0.022, 7%
+17:42:54,528  INFO Workflow:66 - 	: 0.0, 0%
+17:43:25,151  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+17:43:26,169  INFO Workflow:58 - Workflow ended, took 0.252 seconds, total processing time took 1.671
+17:43:26,169  INFO Workflow:61 - Total processing time for each worker:
+17:43:26,170  INFO Workflow:66 - 	: 0.073, 28%
+17:43:26,170  INFO Workflow:66 - 	: 0.071, 28%
+17:43:26,171  INFO Workflow:66 - 	: 0.058, 23%
+17:43:26,177  INFO Workflow:66 - 	: 0.051, 20%
+17:43:26,177  INFO Workflow:66 - 	: 0.05, 19%
+17:43:26,177  INFO Workflow:66 - 	: 0.04, 15%
+17:43:26,177  INFO Workflow:66 - 	: 0.037, 14%
+17:43:26,178  INFO Workflow:66 - 	: 0.061, 24%
+17:43:26,178  INFO Workflow:66 - 	: 0.232, 92%
+17:43:26,178  INFO Workflow:66 - 	: 0.248, 98%
+17:43:26,179  INFO Workflow:66 - 	: 0.245, 97%
+17:43:26,180  INFO Workflow:66 - 	: 0.245, 97%
+17:43:26,180  INFO Workflow:66 - 	: 0.238, 94%
+17:43:26,190  INFO Workflow:66 - 	: 0.0, 0%
+17:43:26,191  INFO Workflow:66 - 	: 0.001, 0%
+17:43:26,191  INFO Workflow:66 - 	: 0.0, 0%
+17:43:26,191  INFO Workflow:66 - 	: 0.0, 0%

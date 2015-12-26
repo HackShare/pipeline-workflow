@@ -15,13 +15,13 @@ import sk.emandem.pipeline.core.worker.Worker;
  * @author Michal Antolik (michal@emandem.sk)
  *
  */
-public class ASyncMultiProcessorExample {
+public class ASyncPipeMultiProcessorExample {
 
 	public static void main(String[] args) throws Exception{
 		// a workflow reader, which creates data 
 		// and will send them through pipeline
 		//Worker dataReader = createReader();
-		int numberOfReaderProcessors = 3;
+		int numberOfReaderProcessors = 5;
 		Worker[] readerProcessors = new Worker[numberOfReaderProcessors];
 		for (int i = 0; i < numberOfReaderProcessors; i++)
 		{
@@ -50,8 +50,8 @@ public class ASyncMultiProcessorExample {
 		}
 		
 		// create pipeline similar to UNIX pipeline
-		IPipe readerPipe = new AsynchronousPipe(500).addInputs(readerProcessors).addOutputs(processors);
-		IPipe writerPipe = new AsynchronousPipe(500).addInputs(processors).addOutputs(writerProcessors);
+		IPipe readerPipe = new AsynchronousPipe(5000).addInputs(readerProcessors).addOutputs(processors);
+		IPipe writerPipe = new AsynchronousPipe(5000).addInputs(processors).addOutputs(writerProcessors);
 		
 		// register pipes and execute workflow
 		Workflow workflow = new Workflow();

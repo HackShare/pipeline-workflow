@@ -20,7 +20,7 @@ public class SyncPipeMultiProcessorExample {
 		// a workflow reader, which creates data 
 		// and will send them through pipeline
 		//Worker dataReader = createReader();
-		int numberOfReaderProcessors = 3;
+		int numberOfReaderProcessors = 5;
 		Worker[] readerProcessors = new Worker[numberOfReaderProcessors];
 		for(int i=0;i<numberOfReaderProcessors;i++){
 			readerProcessors[i]=createReader();
@@ -29,7 +29,7 @@ public class SyncPipeMultiProcessorExample {
 		// a workflow processors, each one will be executed in
 		// a separate thread, each one will receive data as
 		// they become available from the reader
-		int numberOfProcessors = 2;
+		int numberOfProcessors = 8;
 		Worker[] processors = new Worker[numberOfProcessors];
 		for(int i=0;i<numberOfProcessors;i++){
 			processors[i]=createProcessor();
