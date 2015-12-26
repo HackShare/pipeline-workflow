@@ -418,3 +418,26 @@
 18:20:08,866  INFO Workflow:66 - 	: 0.004, 3%
 18:20:08,867  INFO Workflow:66 - 	: 0.0, 0%
 18:20:08,867  INFO Workflow:66 - 	: 0.0, 0%
+18:21:08,069  INFO Workflow:48 - waiting to finish jobs, #active jobs: 6
+18:21:09,075  INFO Workflow:58 - Workflow ended, took 0.174 seconds, total processing time took 1.674
+18:21:09,075  INFO Workflow:61 - Total processing time for each worker:
+18:21:09,075  INFO Workflow:66 - 	: 0.01, 5%
+18:21:09,075  INFO Workflow:66 - 	: 0.009, 5%
+18:21:09,075  INFO Workflow:66 - 	: 0.009, 5%
+18:21:09,077  INFO Workflow:66 - 	: 0.011, 6%
+18:21:09,077  INFO Workflow:66 - 	: 0.013, 7%
+18:21:09,077  INFO Workflow:66 - 	: 0.01, 5%
+18:21:09,077  INFO Workflow:66 - 	: 0.026, 14%
+18:21:09,078  INFO Workflow:66 - 	: 0.011, 6%
+18:21:09,078  INFO Workflow:66 - 	: 0.043, 24%
+18:21:09,078  INFO Workflow:66 - 	: 0.038, 21%
+18:21:09,078  INFO Workflow:66 - 	: 0.015, 8%
+18:21:09,078  INFO Workflow:66 - 	: 0.014, 8%
+18:21:09,078  INFO Workflow:66 - 	: 0.015, 8%
+18:21:09,080  INFO Workflow:66 - 	: 0.016, 9%
+18:21:09,080  INFO Workflow:66 - 	: 0.011, 6%
+18:21:09,080  INFO Workflow:66 - 	: 0.001, 0%
+18:21:09,080  INFO Workflow:66 - 	: 0.0, 0%
+18:21:09,080  INFO Workflow:66 - 	: 0.0, 0%
+18:21:09,080  INFO Workflow:66 - 	: 0.0, 0%
+18:21:09,080  INFO Workflow:66 - 	: 0.0, 0%
