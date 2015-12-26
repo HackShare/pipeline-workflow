@@ -29,7 +29,7 @@ public class SyncPipeMultiProcessorExample {
 		// a workflow processors, each one will be executed in
 		// a separate thread, each one will receive data as
 		// they become available from the reader
-		int numberOfProcessors = 8;
+		int numberOfProcessors = 10;
 		Worker[] processors = new Worker[numberOfProcessors];
 		for(int i=0;i<numberOfProcessors;i++){
 			processors[i]=createProcessor();
@@ -39,7 +39,7 @@ public class SyncPipeMultiProcessorExample {
 		// and it will iteratively create statistics from them
 		//Worker writer = createWriter();
 		
-		int numberOfWriterProcessors = 4;
+		int numberOfWriterProcessors = 5;
 		Worker[] writerProcessors = new Worker[numberOfWriterProcessors];
 		for(int i=0;i<numberOfWriterProcessors;i++){
 			writerProcessors[i]=createWriter();
